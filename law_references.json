@@ -1,0 +1,263 @@
+[
+ {
+  "law_short_org":"EU", 
+  "law_short_type": "EuCo", 
+  "law_short_year": 2018, 
+  "law_short_name": null,
+  "law_short_num": 937, 
+  "law_CELEX_num": "32018D0937", "law_NUMAC_num": null, 
+  "law_date_retrieved": "2019-03-18", "law_date_decided": "2018-06-28", "law_date_published": "2018-07-02", "law_date_enacted": "2018-07-03", 
+  "law_loc_lvl1_type": "art.", "law_loc_lvl2_type": "nr", 
+  "law_long_org": 
+  [
+   { "lang": "EN", "value": "European Union",    "note": "official" }, 
+   { "lang": "ES", "value": "Unión Europea",     "note": "official" }, 
+   { "lang": "DE", "value": "Europäische Union", "note": "official" }, 
+   { "lang": "FR", "value": "Union européenne",  "note": "official" }
+  ], 
+  "law_long_type": 
+  [
+   { "lang": "EN", "value": "European Council Decision",        "note": "official" }, 
+   { "lang": "ES", "value": "Decisión del Consejo Europeo",     "note": "official" }, 
+   { "lang": "DE", "value": "Beschluss des Europäischen Rates", "note": "official" }, 
+   { "lang": "FR", "value": "Décision du Conseil Européen",     "note": "official" }
+  ], 
+  "law_long_name": 
+  [
+   { "lang": "EN", "value": "European Council Decision (EU) 2018/937 of 28 June 2018 establishing the composition of the European Parliament", 
+     "note": "official" }, 
+   { "lang": "ES", "value": "Decisión (UE) 2018/937 del Consejo Europeo, de 28 de junio de 2018, por la que se fija la composición del Parlamento Europeo", 
+     "note": "official" },
+   { "lang": "DE", "value": "Beschluss (EU) 2018/937 des Europäischen Rates vom 28. Juni 2018 über die Zusammensetzung des Europäischen Parlaments", 
+     "note": "official" }, 
+   { "lang": "FR", "value": "Décision (UE) 2018/937 du Conseil européen du 28 juin 2018 fixant la composition du Parlement européen", 
+     "note": "official" }
+  ] , 
+  "law_link": 
+  [
+   { "lang": "EN", "value": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32018D0937", "note": "official" }, 
+   { "lang": "ES", "value": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32018D0937", "note": "official" }, 
+   { "lang": "DE", "value": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32018D0937", "note": "official" }, 
+   { "lang": "FR", "value": "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32018D0937", "note": "official" }
+  ], 
+  "relevant_law_content": 
+  [
+   { "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "EN", "value": "The number of representatives in the European Parliament elected in each Member State is hereby set as follows for the 2019-2024 parliamentary term:\n Belgium 21\n Bulgaria 17\n Czech Republic 21\n Denmark 14\n Germany 96\n Estonia 7\n Ireland 13\n Greece 21\n Spain 59\n France 79\n Croatia 12\n Italy 76\n Cyprus 6\n Latvia 8\n Lithuania 11\n Luxembourg 6\n Hungary 21\n Malta 6\n Netherlands 29\n Austria 19\n Poland 52\n Portugal 21\n Romania 33\n Slovenia 8\n Slovakia 14\n Finland 14\n Sweden 21", "note": "official" }, 
+     { "lang": "ES", "value": "El número de representantes al Parlamento Europeo elegidos en cada Estado miembro para la legislatura 2019-2024 será el siguiente:\n Bélgica 21\n Bulgaria 17\n República Checa 21\n Dinamarca 14\n Alemania 96\n Estonia 7\n Irlanda 13\n Grecia 21\n España 59\n Francia 79\n Croacia 12\n Italia 76\n Chipre 6\n Letonia 8\n Lituania 11\n Luxemburgo 6\n Hungría 21\n Malta 6\n Países Bajos 29\n Austria 19\n Polonia 52\n Portugal 21\n Rumanía 33\n Eslovenia 8\n Eslovaquia 14\n Finlandia 14\n Suecia 21", "note": "official" }, 
+     { "lang": "DE", "value": "Die Zahl der in jedem Mitgliedstaat gewählten Vertreter im Europäischen Parlament für die Wahlperiode 2019-2024 wird wie folgt festgesetzt:\n Belgien 21\n Bulgarien 17\n Tschechische Republik 21\n Dänemark 14\n Deutschland 96\n Estland 7\n Irland 13\n Griechenland 21\n Spanien 59\n Frankreich 79\n Kroatien 12\n Italien 76\n Zypern 6\n Lettland 8\n Litauen 11\n Luxemburg 6\n Ungarn 21\n Malta 6\n Niederlande 29\n Österreich 19\n Polen 52\n Portugal 21\n Rumänien 33\n Slowenien 8\n Slowakei 14\n Finnland 14\n Schweden 21", "note": "official" },
+     { "lang": "FR", "value": "Le nombre des représentants au Parlement européen élus dans chaque État membre est fixé comme suit pour la législature 2019-2024:\n Belgique 21\n Bulgarie 17\n République tchèque 21\n Danemark 14\n Allemagne 96\n Estonie 7\n Irlande 13\n Grèce 21\n Espagne 59\n France 79\n Croatie 12\n Italie 76\n Chypre 6\n Lettonie 8\n Lituanie 11\n Luxembourg 6\n Hongrie 21\n Malte 6\n Pays-Bas 29\n Autriche 19\n Pologne 52\n Portugal 21\n Roumanie 33\n Slovénie 8\n Slovaquie 14\n Finlande 14\n Suède 21", "note": "official" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 2, "law_quote": 
+    [
+     { "lang": "EN", "value": "However, in the event that the United Kingdom is still a Member State of the Union at the beginning of the 2019-2024 parliamentary term, the number of representatives in the European Parliament per Member State taking up office shall be the one provided for in Article 3 of the European Council Decision 2013/312/EU (4) until the withdrawal of the United Kingdom from the Union becomes legally effective. \n Once the United Kingdom's withdrawal from the Union becomes legally effective, the number of representatives in the European Parliament elected in each Member State shall be the one provided for in paragraph 1 of this Article. \n All representatives in the European Parliament who fill the additional seats resulting from the difference between the number of seats allocated in the first and second subparagraphs shall take up their seats in the European Parliament at the same time.", "note": "official" }, 
+     { "lang": "ES", "value": "No obstante, en caso de que el Reino Unido siga siendo un Estado miembro de la Unión al inicio de la legislatura 2019-2024, el número de representantes al Parlamento Europeo de cada Estado miembro que asuma sus funciones será el previsto en el artículo 3 de la Decisión 2013/312/UE del Consejo Europeo (4), hasta que la retirada del Reino Unido de la Unión sea jurídicamente efectiva. \n Una vez que la retirada del Reino Unido de la Unión sea jurídicamente efectiva, el número de representantes al Parlamento Europeo elegidos en cada Estado miembro será el previsto en el apartado 1 del presente artículo. \n Todos los representantes al Parlamento Europeo que ocupen los escaños adicionales resultantes de la diferencia entre el número de escaños asignados en los párrafos primero y segundo tomarán posesión de sus escaños en el Parlamento Europeo al mismo tiempo.", "note": "official" }, 
+     { "lang": "DE", "value": "Sollte jedoch das Vereinigte Königreich zu Beginn der Wahlperiode 2019-2024 noch zu den Mitgliedstaaten der Union zählen, richtet sich die Zahl der Vertreter im Europäischen Parlament je Mitgliedstaat, die ihr Mandat antreten, nach Artikel 3 des Beschlusses 2013/312/EU des Europäischen Rates (4), bis der Austritt des Vereinigten Königreichs aus der Union rechtswirksam wird. \n Sobald der Austritt des Vereinigten Königreichs aus der Union rechtswirksam ist, richtet sich die Zahl der Vertreter der einzelnen Mitgliedstaaten im Europäischen Parlament nach Absatz 1 des vorliegenden Artikels. \n Alle Vertreter im Europäischen Parlament, die die zusätzlichen Sitze einnehmen, die sich aus der Differenz der nach Unterabsatz 1 und 2 zugewiesenen Anzahl von Sitzen ergeben, treten ihr Mandat im Europäischen Parlament zum gleichen Zeitpunkt an.", "note": "official"}, 
+     { "lang": "FR", "value": "Toutefois, dans le cas où le Royaume-Uni serait toujours un État membre de l'Union au début de la législature 2019-2024, le nombre de représentants au Parlement européen par État membre qui prennent leurs fonctions est celui prévu à l'article 3 de la décision 2013/312/UE du Conseil européen (4) jusqu'à ce que le retrait du Royaume-Uni de l'Union produise ses effets juridiques. \n Une fois que le retrait du Royaume-Uni de l'Union a produit ses effets juridiques, le nombre des représentants au Parlement européen élus dans chaque État membre est celui prévu au paragraphe 1 du présent article. \n Tous les représentants au Parlement européen qui occupent les sièges supplémentaires résultant de la différence entre le nombre de sièges attribués aux premier et au deuxième alinéas prennent leurs fonctions au Parlement européen au même moment.", "note": "official" }
+    ]
+   }
+  ]
+ }, 
+
+
+
+{
+  "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_short_num": 117, "law_short_type": "FedLaw", "law_CELEX_num": "71993L0109AUT_97123", "law_NUMAC_num": null, 
+  "law_date_retrieved": "2019-03-18", "law_date_published": "1996-03-14", "law_date_decided": null, "law_date_enacted": null, 
+  "law_loc_lvl1_type": "§", "law_loc_lvl2_type": "()",
+  "law_long_org": 
+  [
+   { "lang": "EN", "value": "Austria",    "note": "https://ende.dict.cc/?s=Österreich" }, 
+   { "lang": "ES", "value": "Austria",    "note": "https://dees.dict.cc/?s=Österreich" },  
+   { "lang": "DE", "value": "Österreich", "note": "official"                           }, 
+   { "lang": "FR", "value": "Autriche",   "note": "https://defr.dict.cc/?s=Österreich" }
+  ], 
+  "law_long_name": 
+  [
+   { "lang": "EN", "value": "European Election Regulation",  "note": "https://dict.leo.org/forum/viewUnsolvedquery.php?idThread=186828&idForum=1&lang=de&lp=ende" }, 
+   { "lang": "ES", "value": "Reglamento Electoral Europeas", "note": "https://de.pons.com/%C3%BCbersetzung?q=Wahlordnung&l=dees&in=de&lf=de"                      }, 
+   { "lang": "DE", "value": "Europawahlordnung",             "note": "official"                                                                                   }, 
+   { "lang": "FR", "value": "Règlement Électoral Européen",  "note": "https://dict.leo.org/französisch-deutsch/Wahlordnung"                                       }
+  ], 
+  "law_long_type": 
+  [
+   { "lang": "EN", "value": "federal law",  "note": "https://dict.leo.org/englisch-deutsch/Bundesgesetz"    }, 
+   { "lang": "ES", "value": "ley federal",  "note": "https://dict.leo.org/spanisch-deutsch/Bundesgesetz"    }, 
+   { "lang": "DE", "value": "Bundesgesetz", "note": "official"                                              }, 
+   { "lang": "FR", "value": "loi fédérale", "note": "https://dict.leo.org/französisch-deutsch/Bundesgesetz" }
+  ], 
+  "law_link": 
+  [
+   { "lang": "DE", "value": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001436", "note": "official" } 
+  ], 
+  "relevant_law_content": 
+  [
+   { "law_loc_lvl1_num": 2, "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "DE", "value": "Die Wahl ist von der Bundesregierung durch Verordnung im Bundesgesetzblatt auszuschreiben. Die Verordnung hat den Wahltag zu enthalten, der von der Bundesregierung im Einvernehmen mit dem Hauptausschuß des Nationalrats auf einen Sonntag oder gesetzlichen Feiertag festzusetzen ist. Die Verordnung hat weiters den Stichtag zu enthalten.", "note": "official" }, 
+     { "lang": "EN", "value": "The election is to be announced by the Federal Government by ordinance in the Federal Law Gazette. The ordinance must contain the election day, which is to be set by the Federal Government in agreement with the Main Committee of the National Council on a Sunday or public holiday. The ordinance also has to contain the reference date.", "note": "https://translate.google.com, personal" } 
+    ]
+   }, 
+   { "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "DE", "value": "Das Bundesgebiet bildet einen einheitlichen Wahlkörper.", 
+       "note": "official" }, 
+     { "lang": "EN", "value": "The federal territory forms one unified constituency.", 
+       "note": "https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=Das%20Bundesgebiet%20bildet%20einen%20einheitlichen%20Wahlkörper." }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 10, "law_loc_lvl2_num": null, "law_quote": 
+    [
+     { "lang": "DE", "value": "Wahlberechtigt sind alle Männer und Frauen, die am Stichtag die Voraussetzungen für eine Eintragung in die Europa-Wählerevidenz (§ 2 des Europa-Wählerevidenzgesetzes – EuWEG, BGBl. Nr. 118/1996) erfüllen und am Tag der Wahl das 16. Lebensjahr vollendet haben.", "note": "official" }, 
+     { "lang": "EN", "value": "All men and women who fulfill the requirements for entry in the European voter registration register (§ 2 of the European Electoral Evidence Act - EuWEG, BGBl. Nr. 118/1996) on the reference date and have reached the age of 16 on the day of the election have the right to vote.", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F10, personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 29, "law_loc_lvl2_num": 1, "law_quote":  
+    [
+     { "lang": "DE", "value": "Wählbar sind alle Wahlberechtigten, die am Tag der Wahl das 18. Lebensjahr vollendet haben und nicht durch ein inländisches Gericht wegen einer oder mehrerer mit Vorsatz begangener und von Amts wegen zu verfolgender gerichtlich strafbarer Handlungen rechtskräftig zu einer nicht bedingt nachgesehenen sechs Monate übersteigenden Freiheitsstrafe oder zu einer bedingt nachgesehenen ein Jahr übersteigenden Freiheitsstrafe verurteilt wurden. Der Ausschluss von der Wählbarkeit endet nach sechs Monaten. Die Frist beginnt, sobald die Strafe vollstreckt ist und mit Freiheitsentziehung verbundene vorbeugende Maßnahmen vollzogen oder weggefallen sind; ist die Strafe nur durch Anrechnung einer Vorhaft verbüßt worden oder zur Gänze bedingt nachgesehen worden, so beginnt die Frist mit Rechtskraft des Urteils.", 
+       "note": "official" 
+     }, 
+     { "lang": "EN", "value": "Eligible are all voters who have reached the age of 18 on the day of the election. Not eligible are all voters who have been legally and finally convicted by a domestic court for one or more nonnegligent criminal acts that were liable to public prosecution with a custodial sentence of more than six months without parole or a custodial sentence of more than one year on parole. The exclusion from eligibility ends after six months. The period begins as soon as the sentence has been executed and preventive measures linked to detention have been carried out or repealed; if the sentence has been served by prior custody or the custody is completely on probation, the period shall commence with the validity of the judgment.", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F29, personal" 
+     }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2, "law_quote": 
+    [
+     { "lang": "DE", "value": "Der Wahlvorschlag muss von wenigstens drei Abgeordneten zum Nationalrat oder von wenigstens einem auf Grund dieses Bundesgesetzes bei der letzten Wahl zum Europäischen Parlament gewählten Mitglied unterschrieben oder von 2 600 Personen, die am Stichtag in der Europa-Wählerevidenz eingetragen und wahlberechtigt (§ 10) waren, unterstützt sein; hat ein Abgeordneter oder ein Mitglied mehrere Wahlvorschläge unterschrieben, so ist nur jene Unterschrift gültig, die sich auf dem ersteingebrachten Antrag befindet. Dem Wahlvorschlag sind die nach Muster Anlage 3 ausgefüllten und gemäß Abs. 3 eigenhändig unterschriebenen Unterstützungserklärungen anzuschließen.", "note": "official" }, 
+     { "lang": "EN", "value": "The nomination must be signed by at least three members of the National Assembly or by at least one member elected on the basis of this Act at the last election to the European Parliament, or by 2 600 persons registered in the European Electoral Register and eligible to vote (§ 10) were supported; if a Member or Member has signed several nominations, only the signature on the first nomination is valid. The nomination must be accompanied by the statements of support completed in accordance with appendix 3 and signed in accordance with para. 3 by hand.", "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F30, personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 63, "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "DE", "value": "Der Wähler kann eine Vorzugsstimme für einen Bewerber der Parteiliste der von ihm gewählten Partei vergeben.", 
+       "note": "official" }, 
+     { "lang": "EN", "value": "The voter may give a preferential vote for an applicant of the selected party list", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F63, personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "DE", "value": "Die Bundeswahlbehörde stellt zunächst auf Grund der ihr von den Landeswahlbehörden gemäß § 76 übermittelten Niederschriften die Parteisummen für das ganze Bundesgebiet fest.", 
+       "note": "official" }, 
+     { "lang": "EN", "value": "The Federal Electoral Authority first establishes the party sums for the whole federal territory on the basis of the transcripts provided by the regional electoral authorities according to § 76.", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F77, personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 2, "law_quote": 
+    [
+     { "lang": "DE", "value": "Parteien, denen im ganzen Bundesgebiet weniger als 4 % der abgegebenen gültigen Stimmen zugefallen sind, haben keinen Anspruch auf die Zuweisung von Mandaten.", "note": "official" }, 
+     { "lang": "EN", "value": "Parties which have received less than 4% of the valid votes cast throughout the federal territory are not entitled to the assignment of mandates.", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F77, personal" } 
+    ]
+   }, 
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 3, "law_quote": 
+    [
+     { "lang": "DE", 
+       "value": "Auf die übrigen Parteien werden die Mandate nach der Wahlzahl verteilt, die nach den Abs. 4 und 5 zu berechnen ist.", 
+       "note": "official" }, 
+     { "lang": "EN", "value": "For the remaining parties, the mandates shall be distributed according to the electoral number to be calculated in accordance with paragraphs 4 and 5.", 
+       "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F77, personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 4, "law_quote": 
+    [
+     { "lang": "DE", "value": "Die Summen der Parteistimmen werden, nach ihrer Größe geordnet, nebeneinander geschrieben; unter jeder Summe wird die Hälfte geschrieben, darunter das Drittel, das Viertel und die weiterfolgenden Teilzahlen.", "note": "official" }, 
+     { "lang": "EN", "value": "The party sums are written side by side, arranged according to their size. Under every sum, the half, the third, the fourth and the following fractions are written.", "note": "personal" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 5, "law_quote": 
+    [
+     { "lang": "DE", "value": "Sämtliche Teilzahlen sind in absteigender Reihenfolge zu ordnen. Die Wahlzahl ist die Teilzahl, die an jener Stelle steht, die der Anzahl der auf Grund dieses Bundesgesetzes zu wählenden Mitglieder des Europäischen Parlaments entspricht.", "note": "official" }, 
+     { "lang": "EN", "value": "All fractional numbers should be sorted in descendant order. The electoral number is the fractional number, that is located at the position corresponding to the number of members to be elected for the European Parliament by this law.", "note": "personal" }
+    ]
+   },
+   { "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 6, "law_quote": 
+    [
+     { "lang": "DE", "value": "Jede Partei erhält soviele Mandate wie die Wahlzahl in ihrer Parteisumme enthalten ist. Wenn nach dieser Berechnungsmethode zwei oder mehrere Parteien auf ein Mandat den gleichen Anspruch haben, entscheidet das Los.", "note": "official" }, 
+     { "lang": "EN", "value": "Each party receives as many mandates as the election number is included in its party sum. If, according to this calculation method, two or more parties have the same claim for a mandate, the lot decides.", "note": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.jusline.at%2Fgesetz%2Feuwo%2Fparagraf%2F77, personal" }
+    ]
+   }
+  ]
+ }, 
+ {
+  "law_short_org":"AT", 
+  "law_short_year": 1945, 
+  "law_short_name": "B-VG", 
+  "law_short_type": "FedConst", 
+  "law_short_num": null, 
+  "law_CELEX_num": null, "law_NUMAC_num": null, 
+  "law_date_retrieved": "2019-04-04", "law_date_decided": "1945-05-01", "law_date_published": "1920-11-10", "law_date_enacted": "1945-12-19", 
+  "law_loc_lvl1_type": "art.", "law_loc_lvl2_type": "()", 
+  "law_long_org": 
+  [
+   { "lang": "EN", "value": "Austria",    "note": "https://ende.dict.cc/?s=Österreich" }, 
+   { "lang": "ES", "value": "Austria",    "note": "https://dees.dict.cc/?s=Österreich" },  
+   { "lang": "DE", "value": "Österreich", "note": "official"                           }, 
+   { "lang": "FR", "value": "Autriche",   "note": "https://defr.dict.cc/?s=Österreich" }
+  ], 
+  "law_long_type": 
+  [
+   { "lang": "EN", 
+     "value": "Federal Constitutional Law", 
+     "note": "official" }, 
+   { "lang": "ES", 
+     "value": "ley federal orgánica", 
+     "note": "https://dict.leo.org/spanisch-deutsch/Verfassungsgesetz, https://dict.leo.org/spanisch-deutsch/Bundes-*" }, 
+   { "lang": "DE", 
+     "value": "Bundes-Verfassungsgesetz", 
+     "note": "official" }, 
+   { "lang": "FR", 
+     "value": "loi fédérale constitutionelle", 
+     "note": "https://dict.leo.org/forum/viewUnsolvedquery.php?idThread=1128540&idForum=13&lang=de&lp=frde" }
+  ], 
+  "law_long_name": 
+  [
+   { "lang": "EN", 
+     "value": "Federal Constitutional Law", 
+     "note": "official" }, 
+   { "lang": "ES", 
+     "value": "ley federal orgánica", 
+     "note": "https://dict.leo.org/spanisch-deutsch/Verfassungsgesetz, https://dict.leo.org/spanisch-deutsch/Bundes-*" }, 
+   { "lang": "DE", 
+     "value": "Bundes-Verfassungsgesetz", 
+     "note": "official" }, 
+   { "lang": "FR", 
+     "value": "loi fédérale constitutionelle", 
+     "note": "https://dict.leo.org/forum/viewUnsolvedquery.php?idThread=1128540&idForum=13&lang=de&lp=frde" }
+  ], 
+  "law_link": 
+  [
+   { "lang": "DE", "value": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138", "note": "official" }, 
+   { "lang": "EN", "value": "https://www.ris.bka.gv.at/Dokumente/Erv/ERV_1930_1/ERV_1930_1.html", "note": "official" }
+  ], 
+  "relevant_law_content": 
+  [
+   { "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 1, "law_quote": 
+    [
+     { "lang": "DE", "value": "Die Mitglieder des Europäischen Parlaments werden in Österreich auf Grund des gleichen, unmittelbaren, persönlichen, freien und geheimen Wahlrechtes der Männer und Frauen, die am Wahltag das 16. Lebensjahr vollendet haben und am Stichtag der Wahl entweder die österreichische Staatsbürgerschaft besitzen und nicht nach Maßgabe des Rechts der Europäischen Union vom Wahlrecht ausgeschlossen sind oder die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen und nach Maßgabe des Rechts der Europäischen Union wahlberechtigt sind, nach den Grundsätzen der Verhältniswahl gewählt.", "note": "official" }, 
+     { "lang": "EN", "value": "The members of the European Parliament shall in Austria be elected in accordance with the principles of proportional representation on the basis of equal, direct, personal, free and secret suffrage be men and women who have completed their sixteenth year of life on the day of election and on the day appointed for election are either endowed with Austrian nationality and not excluded from suffrage under the provisos of European Union law or endowed with the nationality of another member state of the European Union and qualified to vote under the provisos of European Union Law.", "note": "official" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 2, "law_quote": 
+    [
+     { "lang": "DE", "value": "Das Bundesgebiet bildet für die Wahlen zum Europäischen Parlament einen einheitlichen Wahlkörper.", "note": "official" }, 
+     { "lang": "EN", "value": "For elections to the European Parliament the federal territory constitutes a single electoral body.", "note": "official" }
+    ]
+   }, 
+   { "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 3, "law_quote": 
+    [
+     { "lang": "DE", 
+       "value": "Wählbar sind die in Österreich zum Europäischen Parlament Wahlberechtigten, die am Wahltag das 18. Lebensjahr vollendet haben.", 
+       "note": "official" }, 
+     { "lang": "EN", 
+       "value": "Eligible for election are all those entitled to vote for the European Parliament in Austria having completed their eighteenth year of life on the day of election.", 
+       "note": "official" }
+    ]
+   }
+  ]
+ }
+]
