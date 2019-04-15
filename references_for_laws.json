@@ -606,7 +606,7 @@
  {
   "law_short_org": "BE", "law_short_type+num": "FEDLAW-041255", "law_short_year": 1894, "law_short_name": "ElecCode", 
   "law_NUMAC_num": 1894041255,  "law_CELEX_num": null, 
-  "law_date_retrieved": "2019-04-04", "law_date_decided": "1989-03-23", "law_date_published": "1989-03-25", "law_date_enacted": "1989-03-25", 
+  "law_date_retrieved": "2019-03-10", "law_date_decided": "1894-04-12", "law_date_published": "1894-04-15", "law_date_enacted": "1894-04-16", 
   "law_loc_lvl1_type": "art.", "law_loc_lvl2_type": "§", 
   "law_long_org": 
   [
@@ -651,7 +651,7 @@
      "value": "http://www.scta.be/MalmedyUebersetzungen/downloads/18940412_CodeElectoral.docx", 
      "note": "official" }, 
    { "lang": "EN", 
-     "value": "https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.ejustice.just.fgov.be%2Feli%2Fwet%2F1894%2F04%2F12%2F1894041255%2Fjustel", 
+     "value": "https://vota.te.gob.mx/page/download/16218", 
      "note": "translation" }
   ], 
   "relevant_law_content": 
