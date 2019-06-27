@@ -39,12 +39,7 @@
     [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }],
     "list_regist_criteria_signatures": 2600, "refs_for_list_regist_criteria_signatures": 
     [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }],
-    "list_regist_criteria_sex": false, "refs_for_list_regist_criteria_sex":                                                                                                          [{ }],
-    "num_of_particip_lists_2014": 9, "refs_for_num_of_particip_lists_2014": 
-    [{ "election_short_country":"AT", "election_short_year": 2014, "election_short_level":"EUR"                                                                                         }], 
-    "num_of_particip_lists_2019": "approx. 10", "refs_for_num_of_particip_lists_2019": 
-    [{ "election_short_country":"AT", "election_short_year": 2014, "election_short_level":"EUR"                                                                                         },
-     { "election_short_country":"AT", "election_short_year": 2017, "election_short_level":"NAT"                                                                                         }] 
+    "list_regist_criteria_sex": false, "refs_for_list_regist_criteria_sex":                                                                                                          [{ }]
    }
   ]
  }, 
@@ -92,11 +87,7 @@
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }],
-    "num_of_particip_lists_2014": 7, "refs_for_num_of_particip_lists_2014": 
-    [{ "election_short_country":"BE-NL", "election_short_year": 2014, "election_short_level":"EUR"                                                                                      }], 
-    "num_of_particip_lists_2019": null, "refs_for_num_of_particip_lists_2019": 
-    [{                                                                                                                                                                                  }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
    }, 
    {
     "abbr": "BE-FR", "name": "French-speaking electoral college in Belgium", 
@@ -135,11 +126,7 @@
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }],
-    "num_of_particip_lists_2014": 12, "refs_for_num_of_particip_lists_2014": 
-    [{ "election_short_country":"BE-FR", "election_short_level":"EUR", "election_short_year": 2014                                                                                      }], 
-    "num_of_particip_lists_2019": null, "refs_for_num_of_particip_lists_2019": 
-    [{                                                                                                                                                                                  }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
    }, 
    {
     "abbr": "BE-DE", "name": "German-speaking electoral college in Belgium", 
@@ -175,11 +162,7 @@
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }],
-    "num_of_particip_lists_2014": 6, "refs_for_num_of_particip_lists_2014": 
-    [{ "election_short_country":"BE-DE", "election_short_level":"EUR", "election_short_year": 2014                                                                                      }], 
-    "num_of_particip_lists_2019": null, "refs_for_num_of_particip_lists_2019": 
-    [{                                                                                                                                                                                  }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
    }
   ]
  }
