@@ -2,51 +2,58 @@
  {
   "EU_state_abbr": "AT", "EU_state": "Austria", 
   "num_of_electoral_colleges": 1, "refs_for_num_of_electoral_colleges": 
-  [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1                                     }, 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1                                     },  
    { "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 2                              }], 
-  "num_of_seats": 19, "refs_for_num_of_seats": 
+  "num_of_seats_before_brexit": 18, "refs_for_num_of_seats_before_brexit": 
+  [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000312", "law_short_year": 2013, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
+  "num_of_seats_after_brexit": 19, "refs_for_num_of_seats_after_brexit": 
   [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000937", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
   "electoral_colleges": 
   [ 
    {
-    "abbr": "AT", "name": "Austria", "num_of_seats": 19, "refs_for_num_of_seats": 
+    "abbr": "AT", "name": "Austria", 
+    "num_of_seats_before_brexit": 18, "refs_for_num_of_seats_before_brexit": 
+    [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000312", "law_short_year": 2013, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                          }], 
+    "num_of_seats_after_brexit": 19, "refs_for_num_of_seats_after_brexit": 
     [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000937", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                          }], 
     "area": "full state", "refs_for_area": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1                                   }, 
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 3, "law_loc_lvl2_num": 1                                   },  
      { "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 2                            }], 
     "election_day": "Sunday", "refs_for_election_day":  
     [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 2, "law_loc_lvl2_num": 1                                   }], 
     "age_voting_active": 16, "refs_for_age_voting_active": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 10                                                         }, 
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 10                                                         },  
      { "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 1                            }], 
     "age_voting_passive": 18, "refs_for_age_voting_passive": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 29, "law_loc_lvl2_num": 1                                  }, 
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 29, "law_loc_lvl2_num": 1                                  },  
      { "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 3                            }], 
     "general_voting_method": "Proportional Representation", "refs_for_general_voting_method": 
-    [{ "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 1                            }],
+    [{ "law_short_org":"AT", "law_short_name": "B-VG", "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": 1                            }], 
     "detailed_voting_method": "D-Hondt", "refs_for_detailed_voting_method": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 3                                  },
-     { "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 4                                  },
-     { "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 5                                  }, 
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 3                                  },  
+     { "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 4                                  },  
+     { "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 5                                  },  
      { "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 6                                  }], 
     "prefer_voting": true, "refs_for_prefer_voting": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 63, "law_loc_lvl2_num": 1                                  }],
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 63, "law_loc_lvl2_num": 1                                  }], 
     "legal_election_threshold_in_percent": 4.0, "refs_for_legal_election_threshold_in_percent": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 2                                  }],
-    "compulsory_voting": false, "refs_for_compulsory_voting":                                                                                                                        [{ }],
-    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }],
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": 2                                  }], 
+    "compulsory_voting": false, "refs_for_compulsory_voting":                                                                                                                        [{ }], 
+    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }], 
     "list_regist_criteria_elected_reps": "3 MNP or 1 MEP", "refs_for_list_regist_criteria_elected_reps": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }],
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }], 
     "list_regist_criteria_signatures": 2600, "refs_for_list_regist_criteria_signatures": 
-    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }],
-    "list_regist_criteria_sex": false, "refs_for_list_regist_criteria_sex":                                                                                                          [{ }]
+    [{ "law_short_org":"AT", "law_short_name": "EuWO", "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": 2                                  }], 
+    "list_regist_criteria_sex": false, "refs_for_list_regist_criteria_sex":                                                                                                          [{ }]  
    }
   ]
  }, 
  {"EU_state_abbr": "BE", "EU_state": "Belgium", 
   "num_of_electoral_colleges": 3, "refs_for_num_of_electoral_colleges": 
   [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 1                     }], 
-  "num_of_seats": 21, "refs_for_num_of_seats": 
+  "num_of_seats_before_brexit": 21, "refs_for_num_of_seats_before_brexit": 
+  [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000312", "law_short_year": 2013, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
+  "num_of_seats_after_brexit": 21, "refs_for_num_of_seats_after_brexit": 
   [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000937", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
   "electoral_colleges": 
   [ 
@@ -54,17 +61,23 @@
     "abbr": "BE-NL", "name": "Dutch-speaking electoral college in Belgium", 
     "area": "Flanders, Voeren & Comines-Warneton citizens enrolled in Heuvelland, Brussel-Capital by choice, Sint-Genesius-Rode by choice", "refs_for_area": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 1                   }], 
-    "num_of_seats": 12, "refs_for_num_of_seats": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  }, 
+    "num_of_seats_after_brexit": 12, "refs_for_num_of_seats_after_brexit": 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },  
+     { "law_short_org":"BE", "law_short_type-num": "ROYDEC-031699", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num": null                }], 
+    "num_of_seats_before_brexit": 12, "refs_for_num_of_seats_before_brexit": 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },  
      { "law_short_org":"BE", "law_short_type-num": "ROYDEC-031699", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num": null                }], 
     "general_voting_method": "Proportional Representation", "refs_for_general_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               } ,
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167, "law_loc_lvl2_num": null              }], 
     "detailed_voting_method": "D-Hondt", "refs_for_detailed_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         } ,
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                        }], 
     "election_day": "Sunday", "refs_for_election_day":  
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                          }], 
@@ -73,37 +86,43 @@
     "age_voting_passive": 21, "refs_for_age_voting_passive": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num": null                }], 
     "prefer_voting": true, "refs_for_prefer_voting": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }],
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }], 
     "legal_election_threshold_in_percent": 5.0, "refs_for_legal_election_threshold_in_percent": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                                   }], 
     "compulsory_voting": true, "refs_for_compulsory_voting": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                          }], 
-    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }],
+    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }], 
     "list_regist_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_regist_criteria_elected_reps": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_signatures": 5000, "refs_for_list_regist_criteria_signatures": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]  
    }, 
    {
     "abbr": "BE-FR", "name": "French-speaking electoral college in Belgium", 
     "area": "Wallonia, Voeren & Comines-Warneton citizens enrolled in Aubel, Brussel-Capital by choice, Sint-Genesius-Rode by choice", "refs_for_area": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 1                   }], 
-    "num_of_seats": 8, "refs_for_num_of_seats": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  }, 
-     { "law_short_org":"BE", "law_short_type-num": "ROYDEC-031699", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1                                          }],
+    "num_of_seats_after_brexit": 8, "refs_for_num_of_seats_after_brexit": 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },  
+     { "law_short_org":"BE", "law_short_type-num": "ROYDEC-031699", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1                                          }], 
+    "num_of_seats_before_brexit": 8, "refs_for_num_of_seats_before_brexit": 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 2                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 3                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 4                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },  
+     { "law_short_org":"BE", "law_short_type-num": "ROYDEC-031699", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1                                          }], 
     "general_voting_method": "Proportional Representation", "refs_for_general_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167, "law_loc_lvl2_num": null              }], 
     "detailed_voting_method": "D-Hondt", "refs_for_detailed_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                        }], 
     "election_day": "Sunday", "refs_for_election_day":  
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                          }], 
@@ -112,34 +131,36 @@
     "age_voting_passive": 21, "refs_for_age_voting_passive": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num": null                }], 
     "prefer_voting": true, "refs_for_prefer_voting": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }],
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }], 
      "legal_election_threshold_in_percent": 5.0, "refs_for_legal_election_threshold_in_percent": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                                   }], 
     "compulsory_voting": true, "refs_for_compulsory_voting": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                          }], 
-    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }],
+    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }], 
     "list_regist_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_regist_criteria_elected_reps": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }],  
     "list_regist_criteria_signatures": 5000, "refs_for_list_regist_criteria_signatures": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]  
    }, 
    {
     "abbr": "BE-DE", "name": "German-speaking electoral college in Belgium", 
     "area": "German-speaking Community of Belgium: Eupen and Saint Vith", "refs_for_area": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 9, "law_loc_lvl2_num": null                 }], 
-    "num_of_seats": 1, "refs_for_num_of_seats": 
+    "num_of_seats_after_brexit": 1, "refs_for_num_of_seats_after_brexit": 
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  }], 
+    "num_of_seats_before_brexit": 1, "refs_for_num_of_seats_before_brexit": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  }], 
     "general_voting_method": "First-past-the-post voting", "refs_for_general_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num": 5                  },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36, "law_loc_lvl2_num": null               },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167, "law_loc_lvl2_num": null              }], 
     "detailed_voting_method": "D-Hondt", "refs_for_detailed_voting_method": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                        }], 
     "election_day": "Sunday", "refs_for_election_day":  
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                          }], 
@@ -148,21 +169,65 @@
     "age_voting_passive": 21, "refs_for_age_voting_passive": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num": null                }], 
     "prefer_voting": true, "refs_for_prefer_voting": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },
-     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }],
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                         },  
+     { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                        }], 
     "legal_election_threshold_in_percent": 5.0, "refs_for_legal_election_threshold_in_percent": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                         },  
      { "law_short_org":"BE", "law_short_type-num": "FEDLAW-041255", "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                                   }], 
     "compulsory_voting": true, "refs_for_compulsory_voting": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                          }], 
-    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }],
+    "list_regist_criteria_money_deposit": false, "refs_for_list_regist_criteria_money_deposit":                                                                                      [{ }], 
     "list_regist_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_regist_criteria_elected_reps": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_signatures": 200, "refs_for_list_regist_criteria_signatures": 
     [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num": 1                   }], 
     "list_regist_criteria_sex": "first two candidates on list must have opposite sex; number of male minus number of female candidates on list must not be higher than 1 or lower than -1", 
     "refs_for_list_regist_criteria_sex": 
-    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]
+    [{ "law_short_org":"BE", "law_short_type-num": "FEDLAW-000145", "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": "21bis", "law_loc_lvl2_num": null           }]  
+   }
+  ]
+ }, 
+ {"EU_state_abbr": "BG", "EU_state": "Bulgaria", 
+  "num_of_electoral_colleges": 1, "refs_for_num_of_electoral_colleges": 
+  [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 356, "law_loc_lvl2_num": 1                    }], 
+  "num_of_seats_before_brexit": 17, "refs_for_num_of_seats_before_brexit": 
+  [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000312", "law_short_year": 2013, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
+  "num_of_seats_after_brexit": 17, "refs_for_num_of_seats_after_brexit": 
+  [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000937", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                            }], 
+  "electoral_colleges": 
+  [
+   {
+    "abbr": "BG", "name": "Bulgaria", 
+    "num_of_seats_before_brexit": 17, "refs_for_num_of_seats_before_brexit": 
+    [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000312", "law_short_year": 2013, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                          }], 
+    "num_of_seats_after_brexit": 17, "refs_for_num_of_seats_after_brexit": 
+    [{ "law_short_org":"EU", "law_short_type-num": "EUCODC-000937", "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                          }], 
+    "area": "full state", "refs_for_area": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 356, "law_loc_lvl2_num": "(1)"             }], 
+    "election_day": "Sunday", "refs_for_election_day":  
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 5, "law_loc_lvl2_num": null                }], 
+    "age_voting_active": 18, "refs_for_age_voting_active": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 350, "law_loc_lvl2_num": "(1)"             },  
+     { "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 350, "law_loc_lvl2_num": "(2)"             }], 
+    "age_voting_passive": 21, "refs_for_age_voting_passive": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 351, "law_loc_lvl2_num": "(1)"             },  
+     { "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 351, "law_loc_lvl2_num": "(2)"             }], 
+    "general_voting_method": "Proportional Representation", "refs_for_general_voting_method": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 353, "law_loc_lvl2_num": "(1)"             }], 
+    "detailed_voting_method": "Hare-Niemeyer", "refs_for_detailed_voting_method": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 355, "law_loc_lvl2_num": null              }], 
+    "prefer_voting": true, "refs_for_prefer_voting": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 355, "law_loc_lvl2_num": "(2)"             }], 
+    "legal_election_threshold_in_percent": null, "refs_for_legal_election_threshold_in_percent":                                                                                     [{ }], 
+    "compulsory_voting": false, "refs_for_compulsory_voting":                                                                                                                        [{ }], 
+    "list_regist_criteria_money_deposit": "2500 BGN (if party or coalition); 100 BGN (if independant candidate)", "refs_for_list_regist_criteria_money_deposit":
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 129, "law_loc_lvl2_num": "(1)"             }], 
+    "list_regist_criteria_elected_reps": null, "refs_for_list_regist_criteria_elected_reps":                                                                                         [{ }], 
+    "list_regist_criteria_signatures": "2500", "refs_for_list_regist_criteria_signatures": 
+    [{ "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 133, "law_loc_lvl2_num": "(3)"             },  
+     { "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 140, "law_loc_lvl2_num": "(3)"             },  
+     { "law_short_org":"BG", "law_short_type-num": "IZBKOD-000037", "law_short_year": 2014, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 367, "law_loc_lvl2_num": "(1)"             }], 
+    "list_regist_criteria_sex": false, "refs_for_list_regist_criteria_sex":                                                                                                          [{ }]  
    }
   ]
  }
